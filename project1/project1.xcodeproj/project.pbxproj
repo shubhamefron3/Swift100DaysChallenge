@@ -13,6 +13,7 @@
 		2920D73024DC964400298A4F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2920D72E24DC964400298A4F /* Main.storyboard */; };
 		2920D73224DC964B00298A4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2920D73124DC964B00298A4F /* Assets.xcassets */; };
 		2920D73524DC964B00298A4F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2920D73324DC964B00298A4F /* LaunchScreen.storyboard */; };
+		2928E43124DF24F60000C574 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2928E43024DF24F60000C574 /* DetailViewController.swift */; };
 		29411F8124DD7311000AB621 /* nssl0091.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 29411F7724DD7311000AB621 /* nssl0091.jpg */; };
 		29411F8224DD7311000AB621 /* nssl0042.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 29411F7824DD7311000AB621 /* nssl0042.jpg */; };
 		29411F8324DD7311000AB621 /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 29411F7924DD7311000AB621 /* nssl0034.jpg */; };
@@ -34,6 +35,7 @@
 		2920D73124DC964B00298A4F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2920D73424DC964B00298A4F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2920D73624DC964B00298A4F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2928E43024DF24F60000C574 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		29411F7724DD7311000AB621 /* nssl0091.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0091.jpg; sourceTree = "<group>"; };
 		29411F7824DD7311000AB621 /* nssl0042.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0042.jpg; sourceTree = "<group>"; };
 		29411F7924DD7311000AB621 /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 				2920D72824DC964400298A4F /* AppDelegate.swift */,
 				2920D72A24DC964400298A4F /* SceneDelegate.swift */,
 				2920D72C24DC964400298A4F /* ViewController.swift */,
+				2928E43024DF24F60000C574 /* DetailViewController.swift */,
 				2920D72E24DC964400298A4F /* Main.storyboard */,
 				2920D73124DC964B00298A4F /* Assets.xcassets */,
 				2920D73324DC964B00298A4F /* LaunchScreen.storyboard */,
@@ -189,6 +192,7 @@
 				2920D72D24DC964400298A4F /* ViewController.swift in Sources */,
 				2920D72924DC964400298A4F /* AppDelegate.swift in Sources */,
 				2920D72B24DC964400298A4F /* SceneDelegate.swift in Sources */,
+				2928E43124DF24F60000C574 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
